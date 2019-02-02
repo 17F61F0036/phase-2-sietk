@@ -43,7 +43,7 @@ getdata(function(d) {
     parent.append(child);
 
     var img = document.createElement("img");
-    img.src = "img/2.png";
+    img.src = "2.png";
     img.alt = "data[i].name";
     child.append(img);
 
